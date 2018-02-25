@@ -6,7 +6,7 @@ using System.Web;
 using System.Web.Mvc;
 using Treehouse.FitnessFrog.Data;
 using Treehouse.FitnessFrog.Models;
-using System.Dynamic;
+
 
 namespace Treehouse.FitnessFrog.Controllers
 {
